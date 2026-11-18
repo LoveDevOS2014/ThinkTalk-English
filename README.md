@@ -1,5 +1,4 @@
 # ThinkTalk English
---------------------------
 Translating done by me,
 ### original project should be listed on the fork
 --------------------------
